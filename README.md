@@ -1,2 +1,2 @@
-# zooAssessment
-assessment for the zoo project
+# zoo project thing
+practice for building a zoo like application.
